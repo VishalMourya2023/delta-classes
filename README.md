@@ -1,2 +1,2 @@
 # delta-classes
-this is my first github class.
+this is my first github class
